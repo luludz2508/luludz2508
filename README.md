@@ -9,7 +9,7 @@ I have been working in the industry for 4 years, from backend to frontend, and a
 *   🌍  I'm based in Vietnam
 *   🖥️  See my portfolio at [My ongoing Portfolio 🏠](http://lulu-kingdom.vercel.app/)
 *   ✉️  You can contact me at [afc.luan2508@gmail.com](mailto:afc.luan2508@gmail.com)
-*   🚀  I'm currently working on [QR Dashboard for Intery](http://qr-intery.vercel.app/)
+*   🚀  I'm currently working on [...)
 *   🧠  I'm learning Rust
 *   🤝  I'm open to collaborating on any interesting projects 🪐
 *   ⚡  I'm looking for interesting Opportunities... feel free to contact me if you have any ❗
